@@ -1,0 +1,2 @@
+* Para poder conectar con mongodeb, es necesario añadir la IP pública del router en la lista de IP´s admitidas
+  - Se puede editar esa lista en el administrador de mongodb -> Security -> Network Access
